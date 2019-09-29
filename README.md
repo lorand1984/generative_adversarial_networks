@@ -3,7 +3,7 @@
 This repository contains an example of a generative adversarial network used for generating images. 
  
 ## Projects
-* [Face Generation](https://github.com/lorand1984/deep_learning_exercises/tree/master/pytorch/face_generator): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+* [Face Generation](https://github.com/lorand1984/generative_adversarial_networks/tree/master/face_generator): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
 ## Installation
 1. Clone the repository
